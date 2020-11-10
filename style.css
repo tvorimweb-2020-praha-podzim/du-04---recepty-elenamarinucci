@@ -78,7 +78,7 @@ notebook/pc:
   flex-direction: column;
   justify-content: space-between;
   flex-basis: 100%;
-  background: linear-gradient( rgba(0, 0, 0, 0.288), rgba(0, 0, 0, 0.342) ),url(../images/burger.jpg);
+  background: linear-gradient( rgba(0, 0, 0, 0.288), rgba(0, 0, 0, 0.342) ),url("images/burger.jpg");
   background-position:center;
   background-size: cover;
   min-height: 200px;
@@ -106,25 +106,25 @@ notebook/pc:
 
 
 .recept2{
-  background: linear-gradient( rgba(0, 0, 0, 0.288), rgba(0, 0, 0, 0.342) ),url(../images/sushi.jpg);
+  background: linear-gradient( rgba(0, 0, 0, 0.288), rgba(0, 0, 0, 0.342) ),url("images/sushi.jpg");
   background-position:center;
   background-size: cover;
 }
 
 .recept3{
-  background: linear-gradient( rgba(0, 0, 0, 0.288), rgba(0, 0, 0, 0.342) ),url(../images/rajcata.jpg);
+  background: linear-gradient( rgba(0, 0, 0, 0.288), rgba(0, 0, 0, 0.342) ),url("images/rajcata.jpg");
   background-position:center;
   background-size: cover;
 }
 
 .recept4{
-  background: linear-gradient( rgba(0, 0, 0, 0.288), rgba(0, 0, 0, 0.342) ),url(../images/kure.jpg);
+  background: linear-gradient( rgba(0, 0, 0, 0.288), rgba(0, 0, 0, 0.342) ),url("images/kure.jpg");
   background-position:center;
   background-size: cover;
 }
 
 .recept5{
-  background: linear-gradient( rgba(0, 0, 0, 0.288), rgba(0, 0, 0, 0.342) ),url(../images/grilovani.jpg);
+  background: linear-gradient( rgba(0, 0, 0, 0.288), rgba(0, 0, 0, 0.342) ),url("images/grilovani.jpg");
   background-position:center;
   background-size: cover;
 }
